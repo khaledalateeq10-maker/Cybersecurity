@@ -1,5 +1,20 @@
-Professional Statement
-I hold a Software Engineering degree with six months of hands-on IT experience in a hospital environment. While cybersecurity is a new direction for me, I chose it deliberately — because I see a clear and valuable connection between software engineering and security that I want to build my career around.
-My IT experience in healthcare showed me how critical it is for systems to function without failure. That environment taught me the real weight of technical responsibility, and it made me think seriously about what it means to protect the infrastructure that people depend on.
-What draws me to cybersecurity is the logic behind it. As someone who understands how software is designed and built, I want to develop the skills to analyze where those designs can fail and how to strengthen them. The overlap between development and security is where I want to grow and contribute.
-I may be at the beginning of this path, but I’m approaching it with focus and a clear goal — to become a professional who bridges the gap between software engineering and cybersecurity.
+# Professional Statement
+
+I am a Software Engineering graduate with hands-on IT 
+experience in a healthcare environment. My time working 
+in a hospital gave me a firsthand understanding of how 
+critical it is for systems to remain secure and reliable 
+— because in healthcare, a compromised system is not just 
+a technical failure, it's a risk to people's lives.
+
+That experience, combined with my background in software 
+development, gives me a perspective that I believe is rare 
+and valuable in cybersecurity. I don't just see systems as 
+an outsider trying to break in — I understand how they were 
+built, how developers think, and where the gaps tend to appear.
+
+I am now deliberately building my expertise in cybersecurity 
+with one clear goal: to become a professional who helps 
+organizations identify vulnerabilities and build stronger, 
+more resilient systems — before someone else finds the 
+weaknesses first.
