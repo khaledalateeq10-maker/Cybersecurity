@@ -1,19 +1,5 @@
-# Professional Statement
-
-I am a recent Software Engineering graduate with a strong 
-foundation in software development lifecycles and system 
-architecture. This technical background gives me a unique 
-advantage in identifying vulnerabilities and understanding 
-how systems can be secured from the ground up.
-
-I am passionate about cybersecurity because I believe that 
-security must be built into software from the very first 
-line of code, not added as an afterthought. My goal is to 
-bridge the gap between development and security teams, 
-helping organizations build systems that are not only 
-functional but resilient against modern threats.
-
-With 6 months of hands-on experience and a commitment to 
-continuous learning, I am dedicated to growing my skills 
-in cybersecurity to protect organizations and the people 
-who depend on them.
+Professional Statement
+I hold a Software Engineering degree with six months of hands-on IT experience in a hospital environment. While cybersecurity is a new direction for me, I chose it deliberately — because I see a clear and valuable connection between software engineering and security that I want to build my career around.
+My IT experience in healthcare showed me how critical it is for systems to function without failure. That environment taught me the real weight of technical responsibility, and it made me think seriously about what it means to protect the infrastructure that people depend on.
+What draws me to cybersecurity is the logic behind it. As someone who understands how software is designed and built, I want to develop the skills to analyze where those designs can fail and how to strengthen them. The overlap between development and security is where I want to grow and contribute.
+I may be at the beginning of this path, but I’m approaching it with focus and a clear goal — to become a professional who bridges the gap between software engineering and cybersecurity.
