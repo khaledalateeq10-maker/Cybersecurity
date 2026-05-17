@@ -24,4 +24,23 @@
 ### PCI DSS
 | Best Practice | Adherence | Explanation |
 |--------------|-----------|-------------|
-| Authorized access to credit card info | No | All employees can access internal data
+| Authorized access to credit card info | No | All employees can access internal data including card info |
+| Secure storage of credit card data | No | No encryption used for stored card data |
+| Data encryption implemented | No | Encryption not currently in use |
+| Secure password management | No | No centralized password management system |
+
+### GDPR
+| Best Practice | Adherence | Explanation |
+|--------------|-----------|-------------|
+| E.U. data kept private | No | No encryption or access controls for E.U. customer data |
+| 72-hour breach notification plan | Yes | Plan exists to notify E.U. customers within 72 hours |
+| Data classified and inventoried | No | Data has not been properly classified |
+| Privacy policies enforced | Yes | Privacy policies documented among IT staff |
+
+### SOC
+| Best Practice | Adherence | Explanation |
+|--------------|-----------|-------------|
+| User access policies established | No | No least privilege controls in place |
+| Sensitive data confidential | No | PII/SPII accessible to all employees |
+| Data integrity validated | Yes | IT ensures data integrity controls are in place |
+| Data available to authorized users only | No | Access is not restricted to authorized users |
