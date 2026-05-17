@@ -18,3 +18,16 @@ with one clear goal: to become a professional who helps
 organizations identify vulnerabilities and build stronger, 
 more resilient systems — before someone else finds the 
 weaknesses first.
+## Projects
+
+### 1. Network Traffic Analysis
+This project involved analyzing DNS and ICMP network traffic logs using tcpdump to identify a cybersecurity incident affecting access to a company website.
+
+- [Incident Report](Cybersecurity_Incident_Report_Network_Traffic_Analysis.docx)
+- [tcpdump Evidence](tcpdump_log_evidence.png)
+
+### 2. Botium Toys Security Audit
+Conducted a security audit for Botium Toys, identifying risks and compliance issues.
+
+- [Audit Report](botium-toys-audit.md)
+- [Scope Document](Botium_toys_scope.pdf)
