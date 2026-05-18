@@ -35,3 +35,12 @@ Conducted a security audit for Botium Toys, identifying risks and compliance iss
 
 - [Audit Report](botium-toys-audit.md)
 - [Scope Document](Botium_toys_scope.pdf)
+
+  ## 3. OS Hardening — Brute Force Attack Investigation
+
+Investigated a brute force attack against a recipe website.
+Analyzed tcpdump traffic logs to identify malicious redirection
+and recommended OS hardening techniques to prevent future attacks.
+
+- [Security Incident Report](Security_Incident_Report_OS_Hardening.docx)
+- [tcpdump Traffic Log](tcpdump_traffic_log.docx)
