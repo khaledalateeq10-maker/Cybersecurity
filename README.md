@@ -21,7 +21,6 @@ weaknesses first.
 ## Projects
 
 ### 1. Network Traffic Analysis
-## 1. Network Traffic Analysis
 
 Analyzed TCP/HTTP network traffic using Wireshark to identify 
 a SYN Flood DoS attack targeting a company web server.
