@@ -21,11 +21,15 @@ weaknesses first.
 ## Projects
 
 ### 1. Network Traffic Analysis
-This project involved analyzing DNS and ICMP network traffic logs using tcpdump to identify a cybersecurity incident affecting access to a company website.
+## 1. Network Traffic Analysis
 
-- [Incident Report](Cybersecurity_Incident_Report_Network_Traffic_Analysis.docx)
+Analyzed TCP/HTTP network traffic using Wireshark to identify 
+a SYN Flood DoS attack targeting a company web server.
+
+- [Incident Report](Cybersecurity_Incident_Report_Network_traffic_.docx)
+- [Wireshark Raw Data](Wireshark%20TCP_HTTP%20log.xlsx)
+- [Incident Report](Cybersecurity%20incident%20report.docx)
 - [tcpdump Evidence](tcpdump_log_evidence.png)
-
 ### 2. Botium Toys Security Audit
 Conducted a security audit for Botium Toys, identifying risks and compliance issues.
 
