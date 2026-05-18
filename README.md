@@ -53,4 +53,10 @@ weaknesses and recommended hardening tools to prevent future attacks.
 
 - [Security Risk Assessment Report](Security%20risk%20assessment%20report.docx)
 - [Network Hardening Tools](Network%20hardening%20tools.xlsx)
+
+### 5. NIST CSF Incident Response
+
+Applied the NIST Cybersecurity Framework (CSF) to respond to a DoS attack via ICMP flood targeting a multimedia company's internal network.
+
+- [Incident Report Analysis](Incident%20report%20analysis.docx)  
   
