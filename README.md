@@ -44,3 +44,13 @@ and recommended OS hardening techniques to prevent future attacks.
 
 - [Security Incident Report](Security_Incident_Report_OS_Hardening.docx)
 - [tcpdump Traffic Log](tcpdump_traffic_log.docx)
+
+4. Network Hardening Analysis
+
+Analyzed network vulnerabilities for a social media organization 
+that suffered a major data breach. Identified four security 
+weaknesses and recommended hardening tools to prevent future attacks.
+
+- Security Risk Assessment Report
+- Network Hardening Tools
+  
